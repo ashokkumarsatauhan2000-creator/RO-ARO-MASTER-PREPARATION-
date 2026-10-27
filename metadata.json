@@ -1,0 +1,8 @@
+{
+  "name": "RO/ARO लक्ष्य 2027",
+  "description": "UPPSC RO/ARO एवं UP PCS (समीक्षा अधिकारी) मास्टर प्रिपरेशन प्लेटफॉर्म - पूर्वावलोकन 2-कॉलम प्रश्न-बैंक, टेस्ट सीरीज़, लाइव क्लास व ई-लाइब्रेरी",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

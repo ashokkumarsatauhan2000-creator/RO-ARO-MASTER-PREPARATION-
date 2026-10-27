@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RO ARO लक्ष्य 2026</string>
+    <string name="brand_title">RO/ARO लक्ष्य 2026 - सिविल वर्ल्ड (CW EXAM)</string>
+    <string name="search_placeholder">विषय, अध्याय, मॉक टेस्ट या प्रश्न खोजें...</string>
+    <string name="live_badge">LIVE</string>
+    <string name="streak_days">12 Days</string>
+    <string name="print_sheet">प्रिंट निकालें (2-Column A4)</string>
+</resources>
